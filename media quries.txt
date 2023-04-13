@@ -1,0 +1,7 @@
+Extra small	<576px		100%
+Small		≥576px		540px
+Medium		≥768px		720px
+Large		≥992px		960px
+Extra Large	≥1200px		1140px
+XXL		≥1400px		1320px
+					
